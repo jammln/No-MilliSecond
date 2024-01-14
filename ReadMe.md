@@ -10,7 +10,7 @@ do 3 steps
 
 first : Copy and Paste
 
-second : use Nm Function
+second : use NM Function
 
 third : Have Fun
 
