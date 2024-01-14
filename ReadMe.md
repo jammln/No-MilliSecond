@@ -26,4 +26,6 @@ it will be wait 1 second
 
 # Download File
 
-blob:https://github.com/4d788424-0143-480f-8905-293f5c2fe36f
+"https://drive.google.com/file/d/1Z6gY0WB0FEzeoEus5rcRsQ4pEGU5_twC/view?usp=sharing"
+
+# Thanks
