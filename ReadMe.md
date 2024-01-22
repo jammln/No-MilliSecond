@@ -16,11 +16,13 @@ third : Have Fun
 
 # How to use
 
-if you use Thread.Sleep();
+if you use 
+
+    Thread.Sleep();
 
 then type this
 
-Thread.Sleep(NM(1));
+    Thread.Sleep(NM(1));
 
 it will be wait 1 second
 
